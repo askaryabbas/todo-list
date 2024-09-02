@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Simple Todo List using ReactJS, NextJS, NodeJS, ExpressJS and PostgreSQL.",
+  "main": "server.js",
+  "scripts": {
+      "start": "node server",
+      "dev": "nodemon server"
+  },
+  "author": "Askary Abbas",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
